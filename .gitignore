@@ -1,0 +1,27 @@
+# Node modules
+/node_modules/
+/form-builder-backend/node_modules/
+/form-builder-frontend/node_modules/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+
+# Build output
+/dist/
+/form-builder-frontend/dist/
+
+# Vite cache
+/.vite/
+/form-builder-frontend/.vite/
+
+# Misc
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
